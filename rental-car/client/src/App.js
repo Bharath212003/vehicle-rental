@@ -21,7 +21,7 @@ import UsersList from './pages/UsersList'
 import EditUser from './pages/EditUser'
 import EditCars from './pages/EditCars'
 import CreateCars from './pages/CreateCars'
-import StripePay from './components/StripePay'
+
 import StripeContainer from './components/StripeContainer'
 
 function App() {

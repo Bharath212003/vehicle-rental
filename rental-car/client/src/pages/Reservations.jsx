@@ -15,7 +15,7 @@ import {
 } from '../features/reservation/reservationDeleteSlice'
 
 const Reservations = () => {
-  const [todayDate, setTodayDate] = useState(new Date())
+  const [todayDate] = useState(new Date())
   const dispatch = useDispatch()
 
   const userLogin = useSelector((state) => state.userLogin)
