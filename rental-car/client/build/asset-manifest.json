@@ -1,16 +1,30 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/static/css/main.d5cede24.css",
     "main.js": "/static/js/main.debc35a3.js",
+=======
+    "main.css": "/static/css/main.e31e2c96.css",
+    "main.js": "/static/js/main.66861dfa.js",
+>>>>>>> bb75289210e173e4b885e9c1676c94c57a166b80
     "static/media/aboutphoto.jpg": "/static/media/aboutphoto.341ff94d60f5906286ae.jpg",
     "static/media/homephoto.jpg": "/static/media/homephoto.cea231b7bfda7df76f76.jpg",
     "static/media/contactphoto.jpg": "/static/media/contactphoto.6d0e1a43ee7a2df47459.jpg",
     "index.html": "/index.html",
+<<<<<<< HEAD
     "main.d5cede24.css.map": "/static/css/main.d5cede24.css.map",
     "main.debc35a3.js.map": "/static/js/main.debc35a3.js.map"
   },
   "entrypoints": [
     "static/css/main.d5cede24.css",
     "static/js/main.debc35a3.js"
+=======
+    "main.e31e2c96.css.map": "/static/css/main.e31e2c96.css.map",
+    "main.66861dfa.js.map": "/static/js/main.66861dfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e31e2c96.css",
+    "static/js/main.66861dfa.js"
+>>>>>>> bb75289210e173e4b885e9c1676c94c57a166b80
   ]
 }
