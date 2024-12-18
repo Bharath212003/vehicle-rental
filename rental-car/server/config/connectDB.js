@@ -8,5 +8,6 @@ const connectDb = async () => {
     console.error(`Error ${error.message}`)
   }
 }
+mongoose.set('strictQuery', true);
 
 export default connectDb
